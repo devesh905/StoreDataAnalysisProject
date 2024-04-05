@@ -1,8 +1,8 @@
-Overview: 
+# Overview: 
 
 This repository contains data from Vrinda Store, a fictional retail outlet, for the purpose of analysis and insights generation. The dataset encompasses various attributes related to customer transactions, including order details, customer information, product details, and transaction specifics.
 
-Dataset :
+## Dataset :
 
 The dataset consists of the following fields:
 
@@ -34,7 +34,7 @@ Amount: Total amount of the transaction.
 
 Shipping City: City to which the order was shipped.
 
-Analysis :
+## Analysis :
 
 This dataset offers opportunities for analysis in various domains, including:
 
@@ -43,6 +43,6 @@ Customer Segmentation: Segmentation of customers based on demographics and purch
 Channel Performance: Assessment of sales performance across different channels to allocate resources effectively.
 
 
-Tools Used :
+## Tools Used :
 
 MS Excel
